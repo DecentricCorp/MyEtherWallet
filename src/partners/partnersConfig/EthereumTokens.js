@@ -52,6 +52,12 @@ export default {
     decimals: 18,
     fixRateEnabled: true
   },
+  COVAL: {
+    symbol: 'COVAL',
+    name: 'Circuits of Value',
+    decimals: 8,
+    contractAddress: '0x3d658390460295fb963f54dc0899cfb1c30776df'
+  },
   CVC: {
     symbol: 'CVC',
     name: 'Civic',
